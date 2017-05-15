@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>from 8081</description>
+        <direct>false</direct>
+        <endpoint>sn_app1_uip2app1.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>uip2app1</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-15 18:27:25</sys_created_on>
+        <sys_id>ea6f12f05332320081e029cac2dc3493</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uip2app1</sys_name>
+        <sys_package display_value="app1" source="sn_app1">99be9eb05332320081e029cac2dc3466</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app1">99be9eb05332320081e029cac2dc3466</sys_scope>
+        <sys_update_name>sys_ui_page_ea6f12f05332320081e029cac2dc3493</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-15 18:27:32</sys_updated_on>
+    </sys_ui_page>
+</record_update>
