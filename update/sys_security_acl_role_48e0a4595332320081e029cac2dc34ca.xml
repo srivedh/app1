@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-16 22:31:24</sys_created_on>
+        <sys_id>48e0a4595332320081e029cac2dc34ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_app1_sampletable.sn_app1.sampletable_user</sys_name>
+        <sys_package display_value="app1" source="sn_app1">99be9eb05332320081e029cac2dc3466</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app1">99be9eb05332320081e029cac2dc3466</sys_scope>
+        <sys_security_acl display_value="sn_app1_sampletable">40e0a4595332320081e029cac2dc34c8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_48e0a4595332320081e029cac2dc34ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-16 22:31:24</sys_updated_on>
+        <sys_user_role display_value="sn_app1.sampletable_user" name="sn_app1.sampletable_user">bbd0a4595332320081e029cac2dc3452</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
