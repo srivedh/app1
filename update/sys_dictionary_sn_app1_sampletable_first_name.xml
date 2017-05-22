@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-16 22:31:23</sys_created_on>
-        <sys_id>8fb064595332320081e029cac2dc34f5</sys_id>
+        <sys_id>e02e2bc35332320081e029cac2dc3432</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>First name</sys_name>
         <sys_package display_value="app1" source="sn_app1">99be9eb05332320081e029cac2dc3466</sys_package>
         <sys_policy/>
         <sys_scope display_value="app1">99be9eb05332320081e029cac2dc3466</sys_scope>
         <sys_update_name>sys_dictionary_sn_app1_sampletable_first_name</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-16 22:31:23</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-05-22 23:57:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
